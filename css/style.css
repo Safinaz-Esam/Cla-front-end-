@@ -1,0 +1,421 @@
+.f1
+{
+     background-image: url(../images/banner.jpg);
+    padding-bottom: 25%;
+}
+.navbar-brand
+{
+      padding: 30px;
+      
+   
+}
+.row .btn
+{
+
+     padding: 20px;
+     margin-left: 20px;
+     border: #fff solid 2px ;
+     color: white;
+     width: 225px;
+     font-size: 20px;
+     font-weight: 600;
+     margin-top: 40px;
+     transition: ease-in all .5s;
+}
+
+.row .btn:hover
+{
+background-color: #48ca95;
+}
+
+
+
+.navbar-nav li a
+{
+     color: #fff;
+    font-size: 20px;
+    padding: 0 25px;
+    margin-right: 60px;
+
+}
+.navbar-nav li a:hover
+{
+     color: #48ca95;
+}
+
+.f1
+{
+margin-bottom: 90px;
+}
+.carousel-item .row .ha
+{
+     color: white;
+     font-size: 40px;
+     padding-bottom: 20px;
+
+}
+.carousel-item .row .tx1
+{
+     color: white;
+     font-size: 21px;
+     font-weight: 400;
+    
+}
+#carouselExampleIndicators
+{
+     padding-bottom:  50px ; 
+     
+} 
+
+
+.part1 .row .card
+{
+     text-align: center;
+    border: #48ca95 solid 1px;
+    border-radius: 15px;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    font-family:sans-serif;
+    margin: 60px 60PX;
+
+}
+
+.card-img-top
+{
+     width: 50%;
+     margin: auto;
+     
+     
+}
+
+.col-lg-4 .row .btn
+{
+     color: white;
+     font-size: 15px;
+     border: 1px solid white;
+     transition: ease-in all .5s;
+}
+.part2
+{
+     background: #F7F7F7;
+     text-align: center;
+     font-size: 40px;
+     margin: 30px 0;
+     /* margin: 30px; */
+     padding: 100px 90px;
+    
+}
+.part2 h2
+{
+     font-weight: 700;
+     text-transform: uppercase;
+     font-size: 40px;
+     border-bottom: #48ca95 solid 1px;
+     max-width: 300px;
+     margin: auto;
+     padding: 10px;
+     line-height: 50px;
+}
+
+.part2 .container .row 
+{
+     background-color: white;
+     padding-right: 50px;
+     padding-left: 50PX;
+     padding-bottom: 60px;
+     margin-top: 60px;
+}
+
+.part2 .container .row .card
+{
+     border: none;
+      margin-left: 50px; 
+}
+.part2 .card .btn
+{
+     background-color: black;
+     color: white;
+     border-radius: 0;
+     padding: 7px 7px ;
+     transition: ease-in all .5s;
+     font-size: 25px;
+     
+
+}
+
+.part2 .card .btn:hover
+{
+background-color: #48ca95;
+}
+.part2 .btn2
+{
+     border: #48ca95 solid 2px;
+     color: #48ca95;
+     background-color: transparent;
+     padding: 16px 70px;
+     margin-top: 70px;
+     font-size: 15px;
+     transition: ease-in all .5s;
+}
+.part2 .btn2:hover
+{
+background-color: #48ca95;
+color: #252527;
+}
+
+.part3
+{
+background-color: #4F4AA6;
+padding-top: 120px;
+padding-bottom: 120px;
+
+}
+
+.part3 .img3
+{
+margin-right: 30px;
+}
+
+.part3 .text3 p
+{
+     font-size: 30px;
+    
+     /* margin-left: 30px; */
+     padding-bottom: 20px;
+     color: white;
+     line-height: 50px;
+
+}
+.part3 .text3 h1
+{
+ color: white;
+ font-size: 66px;
+ /* line-height: 50px; */
+
+
+}
+.part3 .container .bbtn .b3
+{
+     padding: 16px 50px;
+     background-color: #48ca95;
+     text-align: center ;
+     color: white;
+     font-size: 20px;
+     border: 30px;
+    margin-top: 50px;
+    transition: ease-in all .5s;
+
+}
+.part3 .container .bbtn .b3:hover
+{
+     background-color: black;
+}
+.part4
+{
+     padding: 160px;
+     
+}
+.part4 h2
+{
+     text-align: center;
+     font-size: 45px;
+     border-bottom: #48ca95 solid 1px;
+     font-weight: 900;
+     text-transform: uppercase ;
+     line-height: 29px;
+     padding-bottom: 30PX ;
+     color: #090807;
+    
+     
+}
+.part4 .row .circle-point 
+{
+     background-color: #4F4AA6;
+}
+.part4 .col-lg-9
+{
+     margin-left: 20%;
+     margin-top: 40px;
+     font-size: 20px;
+
+
+}
+.part4 .col-lg-9 img
+{
+     margin-bottom: 10px;
+
+}
+.part4 .col-lg-9 h4
+{
+     color: black;
+     font-size: 30px;
+     line-height: 20px;
+     font-weight: 600;
+     padding: 20px 0 20px ;
+
+}
+.part4 .col-lg-9 p
+{
+     font-size: 18px;
+     color: #0b0b0c;
+     font-weight: 500;
+}
+
+.part5
+{
+     background-image: url(../images/contact_g.jpg);
+    padding: 90px;
+}
+.part5 h2
+{
+     
+color: white;
+text-align: center;
+font-size: 43px;
+border-bottom: #fff solid 1px;
+font-weight: 800;
+max-width: 300px;
+margin: auto;
+margin-bottom: 55px;
+padding-bottom: 15px;
+
+}
+.part5 .container
+{
+     border: 2px solid white ;
+     padding: 30px;
+    
+    
+}
+.part5 .form-group
+{
+    margin: 0 10px;
+     
+}
+.part5 .container .form-group input, .part5 .container .form-group textarea
+{
+ background-color: transparent;
+ padding: 20px 40px;
+ margin: 10px;
+}
+
+.circle-point {
+     height: 25px !important;
+     width: 25px !important;
+     background-color: #bbb;
+      border-radius: 50%; 
+     /* display: inline-block; */
+   }
+.part5 .btn-form
+{
+     margin: 50px;
+     color: white;
+     padding: 15px 0;
+     font-size: 22px;
+     background-color: #48ca95;
+     border-radius: 40px;
+     width: 100%;
+     max-width: 226px;
+     border-color: #48ca95;
+     transition: ease-in all .5s;
+     border: none;
+}
+.part5 .btn-form:hover
+{
+     background-color: black;
+     border-color: black;
+}
+.part5 .container form .form-group input::placeholder
+{
+ color: white !important ;
+}
+.part5 .container form .form-group textarea::placeholder
+{
+     color: white !important ;
+     font-size: 20px;
+}
+.footer
+{
+     background-color: #252527;
+}
+.footer .row
+{
+     color:white;
+     padding: 3%;
+     
+}
+
+.icon
+{
+     list-style-type: none;
+     display: flex;
+     padding-top :15px; ;
+     
+     
+}
+.icon li a
+{
+ display: flex;
+background-color:  white;
+border-radius: 20px;
+font-size: 25px;
+color: #090807;
+text-align: center;
+align-items: center;
+margin: 0 5px ;
+height: 40px;
+width: 40px;
+justify-content: center;
+
+}
+.icon li a:hover
+{
+     background-color: #48ca95;
+     color: #090807;
+     transition: ease-in all .3s;
+}
+.us
+{
+     list-style-type: none;
+     padding: 0;
+      
+}
+.entar
+{
+     width: 100%;
+     border-radius: 15px;
+     color: #929292;
+     height: 48px;
+     font-size: 17px;
+     padding: 0 15px;
+     background: #F4F4F4;
+     font-weight: 700;
+     margin-bottom: 20px;
+}
+.bbb
+{
+     padding: 10px 15;
+     height: 50px;
+     border-radius: 15px;
+     color: white;
+     background-color: #48ca95;
+     font-size: 15px;
+     width: 100%;
+     max-width: 155px;
+     font-weight: 600;
+     margin-bottom: 40px;
+     transition: ease-in all .5s;
+     border: none;
+}
+.bbb:hover
+{
+     background-color: black;
+}
+
+.end .row .tx
+{
+     border-top: #DDDDDD solid 1px;
+     font-size: 20px;
+     
+     text-align: center;
+}
